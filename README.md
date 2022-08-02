@@ -1,7 +1,7 @@
 <img src="https://mytechdecisions.com/wp-content/uploads/2021/02/AdobeStock_382844018-1000x500.jpeg">
 
 
-# 🤖 AutoML | Getting Started with NLP with PyCaret
+# <center> 🤖 AutoML | Getting Started with NLP with PyCaret </center>
 
 # Important Note
 
